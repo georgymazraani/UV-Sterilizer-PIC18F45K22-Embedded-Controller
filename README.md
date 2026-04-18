@@ -2,7 +2,7 @@
 
 A microcontroller-driven UV sterilization unit built around the PIC18F45K22. The system sequences through four stages — idle, preparation, UV exposure, and ventilation — with real-time countdown feedback on a multiplexed 7-segment display and stage annunciation on a character LCD. A normally-closed door interlock aborts the active cycle on breach.
 
-> **Academic context.** Coursework project for **CPEN 231 — Microprocessors**, Faculty of Engineering, **University of Balamand**, Fall 2025–2026.
+> **Academic context.** Coursework project for **CPEN 213 — Microprocessors**, Faculty of Engineering, **University of Balamand**, Fall 2025–2026.
 >
 > **Team:** Georgy Al Mazraani · Fatima Youssef · Yahya Al Youssef
 
@@ -141,4 +141,4 @@ Two indicator LEDs driven from unused PORTA lines would expose the currently-lat
 
 ## Authors
 
-Developed by **Georgy Al Mazraani**, **Fatima Youssef**, and **Yahya Al Youssef** as part of the CPEN 231 Microprocessors course at the University of Balamand, Faculty of Engineering — Fall 2025–2026.
+Developed by **Georgy Al Mazraani**, **Fatima Youssef**, and **Yahya Al Youssef** as part of the CPEN 213 Microprocessors course at the University of Balamand, Faculty of Engineering — Fall 2025–2026.
