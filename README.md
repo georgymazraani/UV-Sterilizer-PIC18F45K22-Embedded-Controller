@@ -131,7 +131,7 @@ A Proteus 8 simulation is provided — open `Proteus Circuit.pdsprj` and load th
 ```
 ├── C Code.c                # Firmware source
 ├── Proteus Circuit.pdsprj  # Proteus simulation project
-├── Report.pdf              # Full design documentation
+├── LCDnew.h                # LCD modified library
 └── README.md
 ```
 
